@@ -12,7 +12,7 @@ public class Anagram {
 //		Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 		
 		
-		//String[] arr = {"eat","tea","tan","ate","nat","bat"};
+		String[] arr = {"eat","tea","tan","ate","nat","bat"};
 		
 		
 		
